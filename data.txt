@@ -1,0 +1,23 @@
+name is :rydham kanth,
+age is :20,
+contact number : 9464945241,
+registered email is: rydhamkanth03@gmail.com ,
+gender is: MALE ,
+address: talwara,
+occupation is : Student,
+travel history (city) : no,
+mode of transportation: no_where,
+fever :no ,
+cough: no ,
+tiredness: no ,
+pain and aches :no ,
+sore throat : no ,
+headache : no ,
+chest pain : no ,
+shortness of breath :no ,
+diabeties :no,
+From how many days you are facing symptoms ? : NO SYMPTOMS ,
+have u consulted to doctor :no ,
+subscribed: yes . 
+ 
+ NEXT 
